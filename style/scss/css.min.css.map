@@ -1,1 +1,0 @@
-{"version":3,"sources":["..\\..\\..\\..\\..\\..\\C:\\Users\\Emad%20Zedan\\Desktop\\learn-git\\style\\scss\\css.scss"],"names":[],"mappings":"AAAA,KACE,WACA,YAEF,GACE","sourcesContent":["body {\r\n  margin: 0px;\r\n  padding: 0px;\r\n}\r\nh1 {\r\n  font-size: 50px;\r\n}\r\n"],"file":"css.min.css"}
